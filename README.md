@@ -1,2 +1,2 @@
 # CS61A
-UCB CS61A Discussion, Lab, Homework, Project
+UCB CS61A solutions: Discussion, Lab, Homework, Project
