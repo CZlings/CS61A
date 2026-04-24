@@ -23,10 +23,10 @@
 - Methods for runing Locally:
   1. Open lab/homework folder with cmd, input "python ok --local"
   2. Runing lab/homework using python CLI
-
+---
 ### References
 - [学习指南 - FYI](https://github.com/CZlings/CS61A/blob/main/CS61A%20(SICP%20Python%E7%89%88)%20%E8%87%AA%E5%AD%A6%E9%80%9A%E5%85%B3%E5%85%A8%E6%8C%87%E5%8D%97.md)
-
+---
 ### Tools
 - Command Line (CMD/Powershell)
   * Python CLI (Playground for happy coding)
@@ -36,17 +36,18 @@
   * VS Code
     [FYI](https://code.visualstudio.com/docs)
     1. Basic Command:
-      > code . # Open current folder
-      > code [filename].[fileType] # It's will create and open the file in current directory if not exist, while exist will open it in editor directly
-      - e.g.
-            > code index.html          # Opens (or creates) the file in the current VS Code window.
-            > code -n script.py        # Opens the file in a new window (useful if you have another project open).
-            > code -r style.css        # Forces the file to open in the last active window.
-            > code file1.js file2.js   # Opens/creates multiple files at once.
-            > code src/utils/helper.js # Creating Files in Subdirectories
-    2. Advanced Command:
-      > Ctrl + Shift + P # Open Command Palette
-      > Ctrl + ` # Open Terminal
+      > - code .  *# Open current folder*
+      > - code [filename].[fileType]  *# It's will create and open the file in current directory if not exist, while exist will open it in editor directly*
+      - 示例:
+      - code index.html          # Opens (or creates) the file in the current VS Code window.
+      - code -n script.py        # Opens the file in a new window (useful if you have another project open).
+      - code -r style.css        # Forces the file to open in the last active window.
+      - code file1.js file2.js   # Opens/creates multiple files at once.
+      - code src/utils/helper.js # Creating Files in Subdirectories
+    2. Advanced Command:   
+      - Ctrl + Shift + P # Open Command Palette
+      - Ctrl + ` # Open Terminal
 
 - IDE(Apply for project):
   * Pycharm
+---
