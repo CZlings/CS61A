@@ -6,6 +6,7 @@
 - **Archives**:
   - [Exams](https://cs61a.org/resources/)
   - [CS61A: SICP - Fall 2020](https://web.archive.org/web/20201219202517/https://cs61a.org/)
+  - [Python Tutor](https://pythontutor.com/cp/composingprograms.html#mode=edit)
 ---
 ### Syllabus & Course Policies
 - [CS61A - About](https://cs61a.org/articles/about-61a/)
