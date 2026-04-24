@@ -3,7 +3,9 @@
 ---
 - **[课表](https://cs61a.org/)**
 - [教材](https://www.composingprograms.com/)
-- [Exams](https://cs61a.org/resources/)
+- **Archives**:
+  - [Exams](https://cs61a.org/resources/)
+  - [CS61A: SICP - Fall 2020](https://web.archive.org/web/20201219202517/https://cs61a.org/)
 ---
 ### Syllabus & Course Policies
 - [CS61A - About](https://cs61a.org/articles/about-61a/)
@@ -28,6 +30,7 @@
 - [学习指南 - FYI](https://github.com/CZlings/CS61A/blob/main/CS61A%20(SICP%20Python%E7%89%88)%20%E8%87%AA%E5%AD%A6%E9%80%9A%E5%85%B3%E5%85%A8%E6%8C%87%E5%8D%97.md)
 ---
 ### Tools
+- [Code Visualization](https://pythontutor.com/)
 - Command Line (CMD/Powershell)
   * Python CLI (Playground for happy coding)
     > Double "Enter" to quite current def function block
